@@ -22,8 +22,4 @@ Este repositório inclui diversos exemplos de uso de interfaces em Java. Você p
 
 
 
-## Licença
 
-Este repositório é disponibilizado sob a licença [Sua Licença](LICENSE). Certifique-se de respeitar os termos da licença ao utilizar o código ou os recursos deste repositório.
-
-Esperamos que este repositório seja útil para seus estudos e projetos relacionados a Java e interfaces. Se tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue
