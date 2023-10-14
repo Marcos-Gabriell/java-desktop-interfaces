@@ -20,9 +20,7 @@ Este repositório inclui diversos exemplos de uso de interfaces em Java. Você p
 - Uso de interfaces em polimorfismo.
 - Boas práticas para nomear interfaces e métodos.
 
-## Como Contribuir
 
-Se você deseja contribuir para este repositório, sinta-se à vontade para fazer um fork e enviar pull requests com melhorias, correções ou novos exemplos. Sua contribuição é bem-vinda!
 
 ## Licença
 
