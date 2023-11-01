@@ -1,4 +1,4 @@
-# Repositório de Estudos sobre Java e Interfaces
+# Repositório de Estudos sobre Java desktop e Interfaces
 
 Este repositório foi criado para armazenar exemplos e informações relacionados ao uso de interfaces em Java. As interfaces são uma parte fundamental da linguagem Java, permitindo a criação de contratos abstratos que as classes concretas devem implementar. 
 
